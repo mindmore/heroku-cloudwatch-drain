@@ -19,7 +19,7 @@
     },
     "PASS": {
       "description": "The basic auth password.",
-      "generator": "knorrhane",
+      "generator": "secret",
       "required": true
     },
     "AWS_ACCESS_KEY_ID": {
